@@ -1,0 +1,18 @@
+Kart Sahibi: Mahmut Sibal
+Kart Numarası: 6599 0992 2453 2334
+Son Kullanma Tarihi: 10/31
+CVV: 239
+Fatura Adresi: Şair Sırrı Hanım Sokak No 16 Yakışır3 Apartmanı
+Şehir: Diyarbakır
+Eyalet: Diyarbakır 
+Posta Kodu: 21100
+-------------------------
+Kart Sahibi: Mahmut2121 
+Kart Numarası: 9885254563251234
+Son Kullanma Tarihi: 10/31
+CVV: 299
+Fatura Adresi: Şair Sırrı Hanım Sokak No 16 Yakışır3 Apartmanı
+Şehir: Diyarbakır
+Eyalet: Diyarbakır
+Posta Kodu: 21100
+-------------------------
